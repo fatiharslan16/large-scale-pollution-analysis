@@ -1,4 +1,4 @@
-# Distributed Big Data Pipeline: Air Quality Aggregation (Hadoop & Java)
+# Big Data Project with Java and Hadoop
 Transformed 7M daily records (3.3 GB) into 20 years of state/national averages in under 2 minutes using optimized Hadoop (YARN).
 
 ## Technology Stack
